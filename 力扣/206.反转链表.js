@@ -25,3 +25,5 @@ function reverse(cur, pre) {
 var reverseList = function(head) {
   return reverse(head,null)
 }
+
+
